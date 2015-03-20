@@ -1,0 +1,17 @@
+County	Population	Unemployment Rate
+Androscoggin	103793	2.9
+Aroostock	73938	3.5
+Cumberland	265612	2.2
+Franklin	29467	4.5
+Hancock	51791	2.6
+Kennebec	117114	3.2
+Knox	39618	2.2
+Lincoln	33616	2.3
+Oxford	54755	3.6
+Penobscot	144919	3.3
+Piscataquis	17235	4.6
+Sagadahoc	35214	2.2
+Somerset	50888	4.0
+Waldo	36280	3.0
+Washington	33941	5.1
+York	186742	2.2
